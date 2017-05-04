@@ -1,0 +1,22 @@
+{
+  "name": "async-wait",
+  "version": "1.0.0",
+  "description": "Practicing egghead.io async/wait js syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vredondo@github.com/VRedondo/async-wait.git"
+  },
+  "author": "Victor Redondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VRedondo/async-wait/issues"
+  },
+  "homepage": "https://github.com/VRedondo/async-wait#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
