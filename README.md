@@ -9,3 +9,5 @@ https://egghead.io/courses/asynchronous-javascript-with-async-await
 [Lesson 3 - Convert Any Function into an Asynchronous Function]()
 
 [Lesson 4 - Handle Errors in Asynchronous Functions]()
+
+[Lesson 5 - Await Multiple Promises Sequentially or Concurrently]()
